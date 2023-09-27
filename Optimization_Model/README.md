@@ -17,8 +17,8 @@ The purpose of this challenge was to use machine learning and neural networks to
 To complete this task, machine learning and neural networks were built to use the data above to determine whether or not the oragnizations were successful in their ventures.
 
 ## Results
-Starter Model: ![Model Define](Starter_Model/Starter_Code_Model_p1.png), ![Train Model](Starter_Model/Starter_Code_Model_p2.png), ![Test Data](Starter_Model/Starter_Code_Model_p3.png)
-Optimized Model: ![Model Define 1](Optimization_Model/Optimization_Model_p1.png), ![Model Define 2](Optimization_Model/Optimization_Model_p2.png), ![Train Data](Optimization_Model/Optimization_Model_p3.png), ![Test Data](Optimization_Model/Optimization_Model_p4.png)
+Starter Model: ![Model Define](Starter_Code_Model_p1.png), ![Train Model](Starter_Code_Model_p2.png), ![Test Data](Starter_Code_Model_p3.png)
+Optimized Model: ![Model Define 1](Optimization_Model_p1.png), ![Model Define 2](Optimization_Model_p2.png), ![Train Model](Optimization_Model_p3.png), ![Test Data](Optimization_Model_p4.png)
 
 * Data Preprocessing
     * Target Variables
